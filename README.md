@@ -3,6 +3,9 @@ This project implements a digital clock with features including a stopwatch, tim
 
 ## Features
 Clock: Displays hours, minutes on the 7-segment display and seconds through LEDs.
+
 Stopwatch: Start, pause, and reset functionality.
+
 Timer: Countdown timer with set and reset options.
+
 Alarm: Settable alarm with custom snooze capability.
